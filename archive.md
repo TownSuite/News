@@ -4,6 +4,7 @@ title: News archive
 ---
 <div class="page-content wc-container">
   <h1>News Archive</h1>  
+  <a style="float:right" href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Back to listings</a>
   {% for post in site.posts %}
   	{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   	{% if currentyear != year %}
