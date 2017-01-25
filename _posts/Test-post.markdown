@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample post from harmony"
+title:  "chicken dinner"
 date:   2017-01-25 23:56:45
 description: Hello world
 categories:
