@@ -11,9 +11,17 @@
 
         <!-- Harmony styles -->
         <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
-        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/base.css">
-        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/footer.css">
-        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/menu.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+        <link id="linkFavicon" rel="shortcut icon" href="./assets/favicon.ico" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+        <link href="http://new.townsuite.com/assets/css/animation.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/components.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/about.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/expanding_section.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/footer.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/mediatxt.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/base.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
+        <link href="http://new.townsuite.com/assets/css/index.css" type="text/css" crossorigin="anonymous" rel="stylesheet" />
 
         <!-- Modernizr js -->
         <script async src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
@@ -26,6 +34,8 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
     </head>
+
+
     <body class="en_GB  townsuite-2016 townsuite-2016--responsive townsuite-logo-2016 exp-growth_web_google_register__GOOGLE3 exp-growth_web_google_register--polish " dir="ltr">
         <header class="mast-head">
             <div class="mast-head__container container">
@@ -41,114 +51,104 @@
                         </li>
                     </ul>
                 </nav>
-                <h1 id="townsuite-logo" class="townsuite-logo"><a href="/"><img src="http://new.townsuite.com/assets/logo.svg" alt="Back to TownSuite.com" src="/" href="/" class="townsuite-logo__type" /></a>TownSuite</h1>
+                <h1 id="townsuite-logo" class="townsuite-logo"><a href="/"><img src="http://new.townsuite.com/assets/logo.svg" alt="" src="/" href="/" class="townsuite-logo__type" /></a>TownSuite</h1>
             </div>
         </header>
-        <div class="outer-menu">
-            <input class="checkbox-toggle" type="checkbox" />
-            <div class="hamburger">
-                <div></div>
-            </div>
-            <div class="menu-title">Menu</div>
-            <div class="menu">
-                <div>
-                    <div>
-                        <ul>
-                            <li>1. <a href="/big-picture">The <strong>BIG</strong> picture</a></li>
-                            <li>2. <a href="/enhance">Enhancing your processes</a></li>
-                            <li>3. <a href="/apps">Understand our offerings</a></li>
-                            <li>4. <a href="/about">Learn about who we are</a></li>
-                            <div class="login">
-                                <a href="/try" class="button-tertiary">Try TownSuite</a> or
-                                <a href="https://ebills.ws.townsuite.com/login" class="button-tertiary">Sign in</a>
-                            </div>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
         <div id="page-content">
             <section class="about-section section-intro">
-                <h2 class="intro-text">TownSuite News</h2>
+                <h2 class="intro-text">See our planned events below.</h2>
                 <h4>If you have any questions do not hesitate to <a href="/contact">contact us</a>.</h4>
             </section>
             <section class="about-section section-TownSuite even">
-                {{ content }}
+              {{ content }}
             </section>
 
             </div>
-        <section style="width:100%" class="footer-row">
-            <footer id="homepage-footer" class="twelve-column townsuite-footer clearfix">
-                <nav>
-                    <ul class="o-nav">
-                        <li class="o-nav__header">TownSuite</li>
-                        <li class="o-nav__item"><a href="/desktop">Desktop apps</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/web">Web apps</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/mobile">Mobile apps</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/features">Features</a>
-                        </li>
-                    </ul>
-                    <ul class="o-nav">
-                        <li class="o-nav__header">Company</li>
-                        <li class="o-nav__item"><a href="/about">About</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/news">News</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/Status">Status</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/events">Events</a>
-                        </li>
-                    </ul>
-                    <ul class="o-nav">
-                        <li class="o-nav__header">Products</li>
-                        <li class="o-nav__item"><a href="/finance">Finance and revenue</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/AM">Asset management</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/HRIS">HRIS</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/LAND">Land management</a>
-                        </li>
-                    </ul>
-                    <ul class="o-nav">
-                        <li class="o-nav__header"> &nbsp; </li>
-                        <li class="o-nav__item"><a href="/eBills">eBills and ePayments</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/Events-facilities">Event and facilities</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/Service-requests">Service requests</a>
-                        </li>
-                    </ul>
-                    <ul class="o-nav">
-                        <li class="o-nav__header">Support</li>
-                        <li class="o-nav__item"><a href="https://ebills.ws.townsuite.com/issue/new">Helpdesk</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/contact">Contact us</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/cookies">Cookies</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/privacy">Privacy &amp; Terms</a>
-                        </li>
-                    </ul>
-                    <ul class="o-nav">
-                        <li class="o-nav__header">Community</li>
-                        <li class="o-nav__item"><a href="/partner-program">Partner program</a>
-                        </li>
-                        <li class="o-nav__item"><a href="/referrals">Referrals</a>
-                        </li>
-                        <li class="o-nav__item"><a href=/documentation>Documentation</a>
-                        </li>
-                    </ul>
-                </nav>
-                <div id="locale-container"> &copy;
-                    <script>
-                        document.write(new Date().getFullYear())
-                    </script> TownSuite Municipal Software <img border="0" src="http://new.townsuite.com./assets/favicon.ico" alt="TownSuite Emblem"></div>
-            </footer>
-        </section>
+
+    <!-- Start Cookie Consent plugin -->
+    <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience. For more information please","dismiss":"I accept","learnMore":"click here","link":"/cookies","theme":"light-bottom"};
+    </script>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+
+    <section class="footer-row">
+                <footer id="homepage-footer" class="twelve-column townsuite-footer clearfix">
+                    <nav>
+                        <ul class="o-nav">
+                            <li class="o-nav__header">TownSuite</li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/desktop">Desktop apps</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/web">Web apps</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/mobile">Mobile apps</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/features">Features</a>
+                            </li>
+                        </ul>
+                        <ul class="o-nav">
+                            <li class="o-nav__header">Company</li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/about">About</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://news.townsuite.com">News</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://status.ws.townsuite.com/">Status</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/events">Events</a>
+                            </li>
+                        </ul>
+                        <ul class="o-nav">
+                            <li class="o-nav__header">Products</li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/finance">Finance and revenue</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/AM">Asset management</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/HRIS">HRIS</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/LAND">Land management</a>
+                            </li>
+                        </ul>
+                        <ul class="o-nav">
+                            <li class="o-nav__header"> &nbsp; </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.comhttp://new.townsuite.com/eBills">eBills and ePayments</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/Events-facilities">Event and facilities</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.comhttp://new.townsuite.com/Service-requests">Service requests</a>
+                            </li>
+                        </ul>
+                        <ul class="o-nav">
+                            <li class="o-nav__header">Support</li>
+                            <li class="o-nav__item"><a href="https://ebills.ws.townsuite.com/issue/new">Helpdesk</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/contact">Contact us</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/cookies">Cookies</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/privacy">Privacy &amp; Terms</a>
+                            </li>
+                        </ul>
+                        <ul class="o-nav">
+                            <li class="o-nav__header">Community</li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/partner-program">Partner program</a>
+                            </li>
+                            <li class="o-nav__item"><a href="http://new.townsuite.com/referrals">Referrals</a>
+                            </li>
+                            <li class="o-nav__item"><a href="https://docs.townsuite.com">Documentation</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div id="locale-container"> &copy;
+                        <script>
+                            document.write(new Date().getFullYear())
+                        </script> TownSuite Municipal Software <img border="0" src="./assets/favicon.ico?v=1.814.0.15739" alt="TownSuite Emblem"></div>
+                </footer>
+            </section>
+            <div id="accessible-announce" class="ax-visually-hidden" aria-live="assertive"></div>
+
 
         <script type="text/javascript">
           /* To avoid render blocking css */
