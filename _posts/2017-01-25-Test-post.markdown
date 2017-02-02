@@ -18,7 +18,7 @@ The features in a project file have more than just a shape and a location.  In T
 
 ### 3.1.1 Shape Information
 
-The Shape Information tool  ![Information tool](/images/Mapping/Shape Information.png){:class="inlineimage"} is perhaps the fastest way to get information about a single map feature
+The Shape Information tool  ![Information tool](https://ca.docs.townsuite.com/images/Mapping/Shape Information.png){:class="inlineimage"} is perhaps the fastest way to get information about a single map feature
 
 - Highlight the layer in the Map Legend
 
@@ -26,19 +26,19 @@ The Shape Information tool  ![Information tool](/images/Mapping/Shape Informatio
 
 - Click on any feature in the map. The Shape Information window will appear displaying the attributes of the feature as seen in Figure 3.1.
 
-![Figure 3.1](/images/Mapping/Figure 3.1.png)
+![Figure 3.1](https://ca.docs.townsuite.com/images/Mapping/Figure 3.1.png)
  **Figure 3.1** -Shape Information dialog box
 
 ## 3.1.2 Show Attributes of the Selected Layer
 Can’t complete the selection?Can’t complete the selection?
-The Show Attributes of the Selected Layer tool ![Selected Layer tool ](/images/Mapping/Show Attributes o f selected layer.png){:class="inlineimage"} will open a new window, which lists the attributes of all the features in a layer.
+The Show Attributes of the Selected Layer tool ![Selected Layer tool ](https://ca.docs.townsuite.com/images/Mapping/Show Attributes o f selected layer.png){:class="inlineimage"} will open a new window, which lists the attributes of all the features in a layer.
 
  - First, highlight the desired layer in the Map Legend.
 
  - Activate the Show Attributes of the Selected Layer tool to open the Layer Attributes table (see figure 3.2).
 
 
-![Figure 3.2](/images/Mapping/Figure 3.2.png)
+![Figure 3.2](https://ca.docs.townsuite.com/images/Mapping/Figure 3.2.png)
 **Figure 3.2** : Layer Attributes Table
 
 
@@ -58,7 +58,7 @@ Map Tips is a mouse over option used to temporarily display attribute informatio
 
 In figure 3.3, notice how the zone description “Rural Residential” appears when the cursor is held above the zone in the map
 
-![Figure 3.3](/images/Mapping/Figure 3.3.png)
+![Figure 3.3](https://ca.docs.townsuite.com/images/Mapping/Figure 3.3.png)
 Figure 3.3 : An example of a Map Tips label for the Zoning layer.
 
 ## 3.2 LINKED DOCUMENTS
@@ -73,11 +73,11 @@ The pathname of Hot Link files are stored in a field of the layers attribute tab
 
 - From the second dropdown list, select the field name that stores the pathname of the document.
 
-- Finally, with the Hot Link tool ![Link tool](/images/Mapping/Hot Link tool.png){:class="inlineimage"}  selected in the main toolbar • Click on the feature in the map to open the file.
+- Finally, with the Hot Link tool ![Link tool](https://ca.docs.townsuite.com/images/Mapping/Hot Link tool.png){:class="inlineimage"}  selected in the main toolbar • Click on the feature in the map to open the file.
 
 Figure 3.4 displays an image of a Heritage Park. The path is stored in the LINK field, as seen in the Map Tip dropdown list.
 
-![Figure 3.4](/images/Mapping/Figure 3.4.png)
+![Figure 3.4](https://ca.docs.townsuite.com/images/Mapping/Figure 3.4.png)
 
 **Figure 3.4** : Photo of the a heritage park. The path to this photo is stored in the LINK field of the Heritage Park layer.
 
@@ -101,9 +101,9 @@ The Measure Line tool calculates the length of a user defined line or line segme
 
 Figure 3.5 displays the measurements of the back of a parcel of land using the Measure Line option.
 
-**Note**: There is also a Measure Line tool ![Measure Line tool ](/images/Mapping/Measure Line tool.png){:class="inlineimage"} in the Main Toolbar for quick access.
+**Note**: There is also a Measure Line tool ![Measure Line tool ](https://ca.docs.townsuite.com/images/Mapping/Measure Line tool.png){:class="inlineimage"} in the Main Toolbar for quick access.
 
-![Figure 3.5](/images/Mapping/Figure 3.5.png)
+![Figure 3.5](https://ca.docs.townsuite.com/images/Mapping/Figure 3.5.png)
 **Figure 3.5** : Line measurements using the Measure Line option.
 
 ### 3.3.2 Measure Polygon
@@ -156,9 +156,9 @@ Spatial selection refers to selecting, or highlighting, a feature or a group of 
 
 ### 3.4.1 Select Mode
 
-The Select Mode tool ![Select Mode tool](/images/Mapping/Select Mode tool.png){:class="inlineimage"} (introduced in section 2) is designed specifically for interacting with the properties layer and the Property Information Panel.  With the Select Mode tool activated, click on a parcel in the map to select it.  The program will then search the database for the property and return the data in the Property Information panel.  The selected parcel will appear highlighted as displayed in Figure 3.6.
+The Select Mode tool ![Select Mode tool](https://ca.docs.townsuite.com/images/Mapping/Select Mode tool.png){:class="inlineimage"} (introduced in section 2) is designed specifically for interacting with the properties layer and the Property Information Panel.  With the Select Mode tool activated, click on a parcel in the map to select it.  The program will then search the database for the property and return the data in the Property Information panel.  The selected parcel will appear highlighted as displayed in Figure 3.6.
 
-![Figure 3.6](/images/Mapping/Figure 3.6.png)
+![Figure 3.6](https://ca.docs.townsuite.com/images/Mapping/Figure 3.6.png)
 
 **Figure 3.6**: A parcel of land (from the Properties layer) selected with the Select Mode tool.
 
@@ -174,7 +174,7 @@ The Select by Location option (Figure 3.7) from the Selection Menu allows the us
 
 -	Define the spatial relationship by choosing a Selection Type.
 
-![Figure 3.7](/images/Mapping/Figure 3.7.png)
+![Figure 3.7](https://ca.docs.townsuite.com/images/Mapping/Figure 3.7.png)
 **Figure 3.7**: Select by Location dialog box.
 
 The Shape Tool option allows the user to draw a shape in the map (either point, line, rectangle, polygon or circle) which will be used to select features that satisfy the defined spatial relationship with the shape (for example select the features from the property layer that intersect a polygon). The spatial relationship (between shape and feature) required for the selection is defined by the Selection Type.
@@ -199,7 +199,7 @@ The select by location tool can also be used to select features within a specifi
 
 -	Double click to complete the shape and return the selected features.  Figure 3.8 displays a selection of all the properties that are within 200 meters of a property.
 
-![Figure 3.8](/images/Mapping/Figure 3.8.png)
+![Figure 3.8](https://ca.docs.townsuite.com/images/Mapping/Figure 3.8.png)
 **Figure 3.8** : Selected parcels within a specified distance.
 
 
@@ -215,7 +215,7 @@ The Property Information Panel can be used to search for and select a property i
 
 Additional property information and documents associated with a parcel can be stored in a supplementary datatable.  The datatable can be accessed by enabling the selecting an option from the Viewing Options dropdown list in the Property Information panel (Figure 3.9).  Note that the datatable, located below the Map Display, is be populated with additional information for the selected property.
 
-![Figure 3.9](/images/Mapping/Figure 3.9.png)
+![Figure 3.9](https://ca.docs.townsuite.com/images/Mapping/Figure 3.9.png)
 **Figure 3.9**: Viewing Options dropdown list in the Property Information Panel.
 
 ### 3.5.3 Select by Attributes
@@ -252,7 +252,7 @@ From the Select by Attributes dialog box Figure 3.10:
 
 The features will also be selected in the map for a visual representation of the feature location.
 
-![Figure 3.10](/images/Mapping/Figure 3.10.png)
+![Figure 3.10](https://ca.docs.townsuite.com/images/Mapping/Figure 3.10.png)
 **Figure 3.10**: Select by Attribute dialog box.
 **What do the different operators represent?**
 
