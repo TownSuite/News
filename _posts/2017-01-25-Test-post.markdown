@@ -10,7 +10,7 @@ categories:
 permalink: sample-post
 ---
 
-# 3.0 RETRIEVING INFORMATION ABOUT MAP FEATURES 1
+# 3.0 RETRIEVING INFORMATION ABOUT MAP FEATURES
 
 The features in a project file have more than just a shape and a location.  In TownSuite Mapping, map features are linked to non-spatial information, or attributes, that is stored in tables.  This section outlines how to display data in TownSuite and retrieve information about map features.
 
