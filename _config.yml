@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl:
+baseurl: https://news.townsuite.com
 
 # Site live URL
 url: https://news.townsuite.com
