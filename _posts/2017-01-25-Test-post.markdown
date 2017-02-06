@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "chicken dinner"
-date:   2017-25-01 23:56:45
+date:   2017-01-25 23:56:45
 description: chicken dinner says Hello world!
 categories:
 - news
