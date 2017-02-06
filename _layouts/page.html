@@ -3,14 +3,7 @@ layout: default
 ---
 
 
-// looping trough all posts
-	{% for post in site.posts limit: 0 %}
-
-	// if the category we want to exclude matches
-			{% if post.category == "jobs" %}
-			// we do nothing
-			{% else if %}
-			// if it's another category, we display the article
+{% unless post.category == "jobs" %}
 				<div class="page-content wc-container">
 					<div class="post">
 						<h1>{{ page.title }}</h1>
@@ -19,5 +12,4 @@ layout: default
 						</div>
 					</div>
 				</div>
-			{% endif %}
-	{% endfor %}
+{% endunless %}
