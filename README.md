@@ -24,12 +24,12 @@ Creating new Content
     * default layout is post and permalink is not required
 * Send a pull request with your change for review.
 
-     ---
-     layout: post
-     title:  "Sample title"
-     date:   2017-01-01 16:56:45
-     description: Just a sample post.
-     categories:
-     - news
-     permalink: sample-post
-     ---
+---
+layout: post
+title:  "Sample title"
+date:   2017-01-01 16:56:45
+description: Just a sample post.
+categories:
+- news
+permalink: sample-post
+---
