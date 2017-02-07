@@ -21,6 +21,9 @@ Creating new Content
 * Create a new markdown (.md) document in `_posts` or `_drafts` depending your requirements
     * please note this file is whitespace sensitive
     * please include proper title, date, description and catagories
+    * default layout is post and permalink is not required
+* Send a pull request with your change for review.
+
      ---
      layout: post
      title:  "Sample title"
@@ -30,5 +33,3 @@ Creating new Content
      - news
      permalink: sample-post
      ---
-    * default layout is post and permalink is not required
-* Send a pull request with your change for review.
