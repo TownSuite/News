@@ -32,18 +32,10 @@ Learn how to generate the reports that your Auditor needs from TownSuite Financi
 Details about our next two Webinars are below!  
 Registration opens 2-3 weeks before each session.
 
-| 
-
-AP Reporting     
-
-March 2, 2017
-
-
-     Banking
-
-April 6, 2017
-
-
+| Topic | Date |
+| ---- | ---- |
+| AP Reporting | March 2, 2017 |
+| Banking | April 6, 2017 |
 
 ![Image](http://placekitten.com/g/900/300)
 
