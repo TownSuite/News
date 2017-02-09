@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "February Test"
-date:   2014-08-30 23:56:45
+title:  "February Webinar - Auditor Reporting"
+date:   2017-02-09
 categories:
 - news
 permalink: sample-post-with-images
-description: A sample post to show how images are being rendered on harmony.
+description: Learn how to generate the reports that your Auditor needs from TownSuite Financial for your annual audit.
 ---
 
 A sample post to show how images are being rendered on harmony.
