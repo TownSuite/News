@@ -13,3 +13,4 @@ A sample post to show how images are being rendered on harmony.
 ### Image from external host
 
 ![Image](http://placekitten.com/g/900/300)
+
