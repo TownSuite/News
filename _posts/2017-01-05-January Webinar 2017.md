@@ -7,16 +7,12 @@ categories:
 - news
 ---
 
+![Webinar](/images/webinar.png "Webinar")
+
 
 ### **Registration is now open!** 
 
 This webinar will help refresh your memory on Levy processing in prepartion for the 2017 Levy.
-
-
-
-![Webinar](/images/webinar.png "Webinar")
-
-
 
 > TownSuite Webinar
 
