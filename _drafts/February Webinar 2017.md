@@ -8,7 +8,7 @@ permalink: sample-post-with-images
 description: Learn how to generate the reports that your Auditor needs from TownSuite Financial for your annual audit.
 ---
 
-![Webinar](/_images/webinar.png "Webinar")
+![Webinar](/images/webinar.png "Webinar")
 
 
 ### **Registration is now open!** 
