@@ -7,12 +7,16 @@ categories:
 - news
 ---
 
-![Webinar](/images/webinar.png "Webinar")
-
 
 ### **Registration is now open!** 
 
 This webinar will help refresh your memory on Levy processing in prepartion for the 2017 Levy.
+
+
+
+![Webinar](/images/webinar.png "Webinar")
+
+
 
 > TownSuite Webinar
 
@@ -29,7 +33,6 @@ This webinar will help refresh your memory on Levy processing in prepartion for 
 - How to create invoice batches and printing invoices.
 - Useful tips for re-posting your Trial Levy.
 - Discussion on how to create invoices and listings for Mortgagor and Employer purposes.
-
 
 
 #### **Mark your calendars!**
