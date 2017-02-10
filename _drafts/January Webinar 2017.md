@@ -8,7 +8,7 @@ permalink: sample-post-with-images
 description: Refresh your memory on Levy processing in preparation for the 2017 Levy.
 ---
 
-![Webinar](/_images/webinar.png "Webinar")
+![Webinar](/images/webinar.png "Webinar")
 
 
 ### **Registration is now open!** 
