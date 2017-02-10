@@ -16,7 +16,9 @@ description: Learn how to generate the reports that your Auditor needs from Town
 This webinar will provide step by step instructions to retrieve and produce the information that your Auditor needs from TownSuite for your annual audit.  This session is ideal for any user of TownSuite Financial, whether you are an experienced user or relatively new, there is something to be learned for everyone.
 
 > TownSuite Webinar
+
 > Auditor Reporting
+
 > February 2, 2017
 
 > 2:00 PM (NDT) | 1:30 PM (ADT)  |  12:30 (EDT)   |  11:30 AM (CDT)  |  10:30 AM (MDT)  
