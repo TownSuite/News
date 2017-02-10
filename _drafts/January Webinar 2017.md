@@ -16,7 +16,9 @@ description: Refresh your memory on Levy processing in preparation for the 2017 
 This webinar will help refresh your memory on Levy processing in prepartion for the 2017 Levy.
 
 > TownSuite Webinar
+
 > Levy Refresher
+
 > January 12, 2017
 
 > 2:00 PM (NDT) | 1:30 PM (ADT)  |  12:30 (EDT)   |  11:30 AM (CDT)  |  10:30 AM (MDT)  
