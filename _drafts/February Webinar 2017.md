@@ -7,6 +7,7 @@ categories:
 permalink: sample-post-with-images
 description: Learn how to generate the reports that your Auditor needs from TownSuite Financial for your annual audit.
 ---
+![Image](http://placekitten.com/g/900/300)
 
 ### **Registration is now open!** 
 
@@ -36,6 +37,4 @@ Registration opens 2-3 weeks before each session.
 | ---- | ---- |
 | AP Reporting | March 2, 2017 |
 | Banking | April 6, 2017 |
-
-![Image](http://placekitten.com/g/900/300)
 
