@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "January Webinar - Levy Refresher"
-date:   2017-02-09
+date:   2017-01-09
+description: Refresh your memory on Levy processing in preparation for the 2017 Levy.
 categories:
 - news
-permalink: sample-post-with-images
-description: Refresh your memory on Levy processing in preparation for the 2017 Levy.
 ---
 
 ![Webinar](/images/webinar.png "Webinar")
