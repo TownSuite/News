@@ -11,7 +11,7 @@ Repository Structure
  - `_posts` - the output of the generated site is stored here by default, this folder only exists after Jekyll built the site
  - `_drafts` -  place to store pre-published content that will not be built and displayed by the site
  - `_assets` -  contains the main stylesheet and javascript
- - `images` -  stores the images used in pages
+ - `_images` -  stores the images used in pages
  
 * Any other folders are most likely user created content
 
