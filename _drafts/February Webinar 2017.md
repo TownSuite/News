@@ -9,6 +9,7 @@ description: Learn how to generate the reports that your Auditor needs from Town
 ---
 ![Image](http://placekitten.com/g/900/300)
 
+
 ### **Registration is now open!** 
 
 This webinar will provide step by step instructions to retrieve and produce the information that your Auditor needs from TownSuite for your annual audit.  This session is ideal for any user of TownSuite Financial, whether you are an experienced user or relatively new, there is something to be learned for everyone.
