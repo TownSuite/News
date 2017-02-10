@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "February Webinar - Auditor Reporting"
-date:   2017-02-09
-categories:
+date:   2017-02-09 14:48:45
 - news
 permalink: sample-post-with-images
 description: Learn how to generate the reports that your Auditor needs from TownSuite Financial for your annual audit.
