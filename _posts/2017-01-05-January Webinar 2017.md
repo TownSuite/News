@@ -4,7 +4,7 @@ title:  "January Webinar - Levy Refresher"
 date:   2017-02-09
 categories:
 - news
-permalink: sample-post-with-images
+permalink: january-webinar-2017
 description: Refresh your memory on Levy processing in preparation for the 2017 Levy.
 ---
 
