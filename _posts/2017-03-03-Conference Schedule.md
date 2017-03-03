@@ -13,7 +13,7 @@ description: TownSuite Financial will be attending various conferences in 2017
 
 ### **2017 Conference Schedule** 
 
-Want to connect with us?  Here are some of the events that we will be attending this year.  Have an event you think we would be interested in?  Let us know.  
+Want to connect with us?  Here are some of the events that we will be attending this year. 
 
 | Conference| Date | Location | Topic
 | ---- | ---- | ---- | ---- |
@@ -26,3 +26,6 @@ Want to connect with us?  Here are some of the events that we will be attending 
 | GFOA AB | June 4-7 | Grande Prairie, AB
 | AMANB | June 7 - 9 | Saint John, NB
 | GFOA BC | June 14-16 | Victoria BC
+
+Have an event you think we would be interested in?  Let us know.  
+Email us at marketing@townsuite.com
