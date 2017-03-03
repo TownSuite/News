@@ -8,7 +8,7 @@ permalink: conferences-schedule
 description: TownSuite Financial will be attending various conferences in 2017
 ---
 
-![Webinar](/images/webinar.png "Webinar")
+![Conference](/images/Conference.jpg "Conference")
 
 
 ### **2017 Conference Schedule** 
