@@ -28,4 +28,4 @@ Want to connect with us?  Here are some of the events that we will be attending 
 | GFOA BC | June 14-16 | Victoria BC
 
 Have an event you think we would be interested in?  Let us know.  
-Email us at <mailto:marketing@townsuite.com.com?subject=free chocolate>
+Email us at [marketing@townsuite.com](mailto:marketing@townsuite.com?Subject=Events)
