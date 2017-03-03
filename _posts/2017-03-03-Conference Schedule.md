@@ -31,5 +31,5 @@ Want to connect with us?  Here are some of the events that we will be attending 
 ----------
 
 
-> Have an event you think we would be interested in?  Let us know.  
-> Email us at [**marketing@townsuite.com**](mailto:marketing@townsuite.com?Subject=Events)
+Have an event you think we would be interested in?  Let us know.  
+Email us at [**marketing@townsuite.com**](mailto:marketing@townsuite.com?Subject=Events)
