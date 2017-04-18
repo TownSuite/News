@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "May Webinar - Banking"
+date:   2017-03-27
+categories:
+- news
+permalink: april-webinar-2017
+description: Overview of the Banking module tools.
+---
+
+![Webinar](/images/webinar.png "Webinar")
+
+
+### **Registration is now open!** 
+
+This webinar will provide you with an overview of the Banking module tools that you would us on a regular basis in your municipality. 
+
+
+| Webinar | Date | Times |
+| ---- | ---- | ---- |
+| Banking | April 13, 2017 | 2:00 PM (NDT) |
+| | | 1:30 PM (ADT) |
+| | | 12:30 (EDT) |
+| | | 11:30 AM (CDT) |
+| | | 10:30 AM (MDT) |
+
+#### **In this webinar:**  
+
+Learn how to use the Banking functionality in TownSuite Financial, including: 
+
+- Transaction Entry
+- Paying Accounts Payable Invoices
+- Cheque and Transaction Clearing
+- Reporting Functionality
+
+#### **Mark your calendars!**
+
+Details about our next two Webinars are below!  
+Registration opens 2-3 weeks before each session.
+
+| Topic | Date |
+| ---- | ---- |
+| Month End Procedures | May 11, 2017 |
+| TBA | June 15, 2017 |
+
