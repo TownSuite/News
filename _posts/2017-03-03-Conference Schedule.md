@@ -13,7 +13,8 @@ description: TownSuite Financial will be attending various conferences in 2017
 
 ### **2017 Conference Schedule** 
 
-Want to connect with us?  Here are some of the events that we will be attending this year. 
+Want to connect with us?  Here are some of the events that we will be attending this year.
+View our [Events Calendar](https://townsuite.com/events) for more information on specific events.
 
 | Conference| Date | Location | Association/Agency 
 | ---- | ---- | ---- | ----
@@ -26,7 +27,6 @@ Want to connect with us?  Here are some of the events that we will be attending 
 | 2017 Conference | June 4-7 | Grande Prairie, AB | Government Finance Officers Association - Alberta Chapter
 | 2017 Annual Conference & AGM | June 7 - 9 | Saint John, NB | Association of Municipal Administrators of New Brunswick
 | 2017 Annual Conference | June 14-16 | Victoria BC | Government Finance Officers Association of British Columbia
-
 
 
 > Have an event you think we would be interested in?  Let us know.  
