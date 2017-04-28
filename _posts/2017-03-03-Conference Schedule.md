@@ -14,6 +14,7 @@ description: TownSuite Financial will be attending various conferences in 2017
 ### **2017 Conference Schedule** 
 
 Want to connect with us?  Here are some of the events that we will be attending this year.
+
 View our [Events Calendar](https://townsuite.com/events) for more information on specific events.
 
 | Conference| Date | Location | Association/Agency 
