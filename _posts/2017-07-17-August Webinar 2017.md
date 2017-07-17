@@ -18,7 +18,7 @@ This webinar will provide step by step instructions to perform basic transaction
 
 | Webinar | Date | Times |
 | ---- | ---- | ---- |
-| Payroll Processing | August 3, 2017 | 2:00 PM (NDT) |
+| AR Transaction Processing | August 3, 2017 | 2:00 PM (NDT) |
 | | | 1:30 PM (ADT) |
 | | | 12:30 (EDT) |
 | | | 11:30 AM (CDT) |
