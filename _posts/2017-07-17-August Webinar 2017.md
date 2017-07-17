@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "August Webinar - Accounts Receivable Transaction Processing"
+title:  "August Webinar - AR Transaction Processing"
 date:   2017-07-17
 categories:
 - news
