@@ -18,7 +18,7 @@ In this month's webinar we will help prepare you for your 2018 Levy.
 
 | Webinar | Date | Times |
 | ---- | ---- | ---- |
-| Levy | October 5, 2017 | 2:00 PM (NDT) |
+| Levy | October 12, 2017 | 2:00 PM (NDT) |
 | | | 1:30 PM (ADT) |
 | | | 12:30 (EDT) |
 | | | 11:30 AM (CDT) |
