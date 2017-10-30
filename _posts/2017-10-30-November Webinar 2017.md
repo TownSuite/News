@@ -18,7 +18,7 @@ In this webinar we will take you through General Ledger reports from TownSuite.
 
 | Webinar | Date | Times |
 | ---- | ---- | ---- |
-| Levy | November 9, 2017 | 2:00 PM (NDT) |
+| GL Reporting | November 9, 2017 | 2:00 PM (NDT) |
 | | | 1:30 PM (ADT) |
 | | | 12:30 (EDT) |
 | | | 11:30 AM (CDT) |
