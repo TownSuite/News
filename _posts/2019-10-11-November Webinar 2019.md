@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "November Webinar - AP Reporting"
-date:   2019-09-11
+date:   2019-10-10
 categories:
 - news
 permalink: November-webinar-2019
