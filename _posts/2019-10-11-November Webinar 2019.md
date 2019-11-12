@@ -49,5 +49,6 @@ Registration opens 2-3 weeks before each session.
 | Payroll Year End | December 4 2019 |
 | Levy Refresh | January 2 2020 |
 | Payroll Processing | February 6, 2020 |
+
 ---
-*Addtional information is also available on our [Events Calendar](https://townsuite.com/events).*
+*Additional information is also available on our [Events Calendar](https://townsuite.com/events).*
