@@ -42,6 +42,6 @@ Registration opens 2-3 weeks before each session.
 | ---- | ---- |
 | Levy Refresh | January 2 2020 |
 | Payroll Processing | February 6, 2020 |
-| Meter Processing | March 5 2019 |
+| Meter Processing | March 5, 2019 |
 ---
 *Addtional information is also available on our [Events Calendar](https://townsuite.com/events).*
