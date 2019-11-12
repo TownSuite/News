@@ -45,4 +45,4 @@ Registration opens 2-3 weeks before each session.
 | Meter Processing | March 5, 2019 |
 
 ---
-*Addtional information is also available on our [Events Calendar](https://townsuite.com/events).*
+*Additional information is also available on our [Events Calendar](https://townsuite.com/events).*
